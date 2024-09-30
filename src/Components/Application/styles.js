@@ -30,6 +30,7 @@ export const ContentCharacters = styled.div`
         display: grid;
         grid-template-columns: repeat(4, 1fr);
         grid-gap: 1.6rem;
+        margin-bottom: 3.2rem;
     }
 
     button{
